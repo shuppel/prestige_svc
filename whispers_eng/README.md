@@ -1,1 +1,2 @@
-
+# Accolades Engine
+The accolades engine is built to provide a tiny function to the Prestive microservice. When called upon, the whispers engine feeds the prestige engine, and is weighed against the other engines to provide the prestige score for the Aura Culture Fit. Accolates scrapes and parses all consumer and non-profit organizations that measure organization success, growth and success. This would be Inc 500, Top 100 places to work, etc. Each are drawn in from API and web-scrapes to provide a float score from 0-1 to match the best companies. 
